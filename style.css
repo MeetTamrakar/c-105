@@ -1,0 +1,20 @@
+body{
+ color:white;
+ background:red;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+
+}
+.name_of_object{
+    color:cyan;
+
+}
+#reult_object_name{
+    color:blue;
+
+}
+#result_object_accuracy{
+    color:green;
+}
